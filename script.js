@@ -84,7 +84,7 @@ window.addEventListener('load', function() {
     ];
 
 
-    const message = `Happy Birthday POOKIE!. I know we just met 5 months ago but I feel like there's alot more to come from here and that's special. You may be a mumu but you are my mumu and I love you. Hope you enjoy the rest of your day. P.S GET YOUR MONEY UP!!!!!!😘🌚`;
+    const message = `HAPPY BIRTHDAY BEBE! We met June 12,2022 and it's been exactly two years and a month since then and it's been the rockiest of roads between us but it's the best kind. Well since Rocky Road is like Ice-cream and well....you get the point😂😂. That being side, you are the definition of perseverance and that's the best part of you. I pray God's showering Grace continue to make your cup overflow and may you continue to have that God-given strength to tackle any turmoil life throws at you. HAVE A BLESSED DAY Remmykins!! DAISUKI💖`
 
     // Add click event listener to the envelope
     envelope.addEventListener('click', function() {
