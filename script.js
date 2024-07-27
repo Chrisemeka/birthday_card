@@ -84,7 +84,7 @@ window.addEventListener('load', function() {
     ];
 
 
-    const message = `HAPPY BIRTHDAY BEBE! We met June 12,2022 and it's been exactly two years and a month since then and it's been the rockiest of roads between us but it's the best kind. Well since Rocky Road is like Ice-cream and well....you get the point😂😂. That being side, you are the definition of perseverance and that's the best part of you. I pray God's showering Grace continue to make your cup overflow and may you continue to have that God-given strength to tackle any turmoil life throws at you. HAVE A BLESSED DAY Remmykins!! DAISUKI💖`
+    const message = `HAPPY BIRTHDAY BAD GUY! Oh, omo it's your birthday ooh😭😂. I just want you to know how much you are appreciated, admired, and loved (Definitely not by me sha😏). Your laughter brighthens up even the darkest days (literally, darkest days must not hear that your infectious laugh😂😂). I pray God's showering Grace continue to make your cup overflow and may you continue to have that God-given strength to tackle any turmoil life throws at you.You deserve all the happiness in the world. HAVE A BLESSED DAY ANU!! (Big_Memz doesn't love you😁 )ASS💖`
 
     // Add click event listener to the envelope
     envelope.addEventListener('click', function() {
